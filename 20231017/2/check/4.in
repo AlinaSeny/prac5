@@ -1,0 +1,8 @@
+:print print("Hello_world!","Meow",sep='\n')
+print
+:s_f qwerty qwerty+qwerty[::-1]
+:None ()
+None
+s_f "qwerty"
+s_f "q w e r   dsf j j s"
+quit '{}------{}'

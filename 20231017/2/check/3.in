@@ -1,0 +1,6 @@
+:concat a b (a+b)*3
+concat "True" "False"
+concat 1 2
+:d a b (a+b)*3
+d "True" "False"
+quit "---{}---{}---"
