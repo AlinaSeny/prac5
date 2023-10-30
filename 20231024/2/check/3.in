@@ -1,0 +1,1 @@
+print(*list(slide("QAZWSX", 8)))
