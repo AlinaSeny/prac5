@@ -104,4 +104,5 @@ class Triangle:
         return False
 
 
-
+import sys
+exec(sys.stdin.read())

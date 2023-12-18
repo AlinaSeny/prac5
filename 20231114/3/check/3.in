@@ -1,0 +1,9 @@
+try:
+    alp = Alpha(c=10, z=2, a=42,ы=5)
+    alp.e = 123
+except Exception as e:
+    print('error')
+try:
+    alq = AlphaQ(c=10, z=2, a=42, ы=5)
+except Exception as e:
+    print('error')
